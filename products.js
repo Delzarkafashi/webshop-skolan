@@ -1,6 +1,6 @@
 "use strict";
 
-let mainUrl = "https://produktapi.herokuapp.com/products";
+let mainUrl = "https://produktapi-6ef53ba8f2f2.herokuapp.com/products";
 
 const mainEl = document.getElementById("main");
 const searchEl = document.getElementById("search");
