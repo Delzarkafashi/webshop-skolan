@@ -6,6 +6,9 @@
 - Snygga till titlar på alla sidor
 - Lägg till länk till about-sidan i huvudmeny och sidfot
 - Ändra avrundning av totalsumma i varukorgen till 2 decimaler
+- Ändra färger
+- Ändra namn på webbutiken
+- Förbättra mobilanpassning
 
 ...eller kom på fler egna förslag 🙂
 
