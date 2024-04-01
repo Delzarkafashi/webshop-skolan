@@ -1,17 +1,16 @@
-# Förslag på nya features
+# Projektövning Github Flow / Git Flow
 
-
-Avrundning av totalsumma i varukorgen är ändrad till 2 decimaler
-Val av Paypal-alternativet på checkout-sidan tar bort kortfälten och vice versa
-About-sidan har skapats
+## Förslag på nya features och småfix
+Skapa en about-sida
 Sökfunktionen är inte skiftlägeskänslig
 Ny presentationstext på startsidan
-Nya titlar på alla sidor
-Årtal i sodfoten
-Ny länk till about-sidan i huvudmeny och sidfot
-
+Snygga till titlar på alla sidor
+Lägg till länk till about-sidan i huvudmeny och sidfot
+Ändra avrundning av totalsumma i varukorgen till 2 decimaler
 
 ...eller kom på fler egna förslag 🙂
 
 ## Det finns även några buggar på sajten som för fixas
 "All Products" på startsidan länkar inte till produktsidan
+Val av Paypal-alternativet på checkout-sidan tar inte bort kortfälten och vice versa
+Justera årtal i sidfoten
