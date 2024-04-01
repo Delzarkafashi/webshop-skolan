@@ -2,7 +2,6 @@
 
 ## Förslag på nya features och småfix
 - Skapa en about-sida
-- Sökfunktionen är inte skiftlägeskänslig
 - Ny presentationstext på startsidan
 - Snygga till titlar på alla sidor
 - Lägg till länk till about-sidan i huvudmeny och sidfot
@@ -14,3 +13,4 @@
 - "All Products" på startsidan länkar inte till produktsidan
 - Val av Paypal-alternativet på checkout-sidan tar inte bort kortfälten och vice versa
 - Justera årtal i sidfoten
+- Sökfunktionen är inte skiftlägeskänslig
